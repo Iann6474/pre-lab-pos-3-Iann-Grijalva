@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\Debug\Lab3 Iann Grijalva.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab3 Iann Grijalva.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab3 Iann Grijalva.map</FILE>
+  <FILE>Lab3 Iann Grijalva.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>27</LINE></inicio>
+  <inb><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>96</LINE></inb>
+  <ISR_TMR0><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>126</LINE></ISR_TMR0>
+  <mostrarnumero><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>140</LINE></mostrarnumero>
+  <MAIN_LOOP><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>92</LINE></MAIN_LOOP>
+  <INCREMENTO><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>106</LINE></INCREMENTO>
+  <DECREMENTO><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>112</LINE></DECREMENTO>
+  <acl><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>118</LINE></acl>
+  <no_incrementar><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>137</LINE></no_incrementar>
+  <no_reset><FILE>C:\Users\ianng\Desktop\micros\micros\Lab3 Iann Grijalva\Lab3 Iann Grijalva\main.asm</FILE><LINE>135</LINE></no_reset>
+ </LABELS>
+</ASSEMBLER_INFO>
